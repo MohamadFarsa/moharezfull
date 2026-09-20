@@ -89,10 +89,10 @@
     "cardColor": "#0d1117",
     "bgColor1": "#0d1117",
     "bgColor2": "#3b82f6",
-    "textMode": "auto",
-    "nameColor": "#ffffff",
-    "jobColor": "#22d3ee",
-    "bioColor": "#94a3b8",
+    "textMode": "custom",
+    "nameColor": "#ffff00",
+    "jobColor": "#0000ff",
+    "bioColor": "#ffff00",
     "heroColor": "#0d1117"
   },
   "toggles": {
