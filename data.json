@@ -101,7 +101,7 @@
     "location": true,
     "email": true,
     "website": true,
-    "bio": true,
+    "bio": false,
     "about": true,
     "services": true,
     "portfolio": true,
